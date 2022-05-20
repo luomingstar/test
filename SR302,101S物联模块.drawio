@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T07:38:32.419Z" agent="5.0 (X11)" etag="zLkmAtjbswM57fSDKqJr" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T01:47:12.370Z" agent="5.0 (X11)" etag="AiJ3ZrrQtmMDW2nk1RAu" version="17.4.4" type="github">
   <diagram id="gd4RR7Ce3zrP7FcpOa7D" name="第 1 页">
     <mxGraphModel dx="1355" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -20,10 +20,10 @@
           <mxGeometry x="520" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tGs9OYc5qSsSg6o_rcc3-6" value="BluetoothConnectImpl" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="50" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tGs9OYc5qSsSg6o_rcc3-7" value="BlueDiscoveryControl" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="50" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tGs9OYc5qSsSg6o_rcc3-8" value="BluetoothAdapter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="50" width="120" height="60" as="geometry" />
